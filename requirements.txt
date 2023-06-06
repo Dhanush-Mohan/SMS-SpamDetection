@@ -8,3 +8,4 @@ pandas==1.5.3
 nltk==3.8.1
 pickleshare==0.7.5
 sklearn==0.0.post1
+altair<5
